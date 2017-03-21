@@ -1,0 +1,723 @@
+# Copyright (C) 2016 Elated Listing
+# This file is distributed under the same license as the Elated Listing package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elated Listing 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/eltd-listing\n"
+"POT-Creation-Date: 2016-03-15 16:19:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: dashboard/dashboard-functions.php:24 dashboard/dashboard-functions.php:1575
+#: dashboard/dashboard-functions.php:1623
+msgid "Sign out"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:142 dashboard/dashboard-functions.php:199
+#: dashboard/dashboard-functions.php:455 dashboard/dashboard-functions.php:814
+msgid "All fields are empty"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:166
+msgid "Passwords dont match"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:177
+msgid "Your profile is updated"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:180
+msgid "You are unauthorized to perform this action."
+msgstr ""
+
+#: dashboard/dashboard-functions.php:184
+msgid "Wrong nonce code."
+msgstr ""
+
+#: dashboard/dashboard-functions.php:369 dashboard/dashboard-functions.php:634
+msgid "You will be redirected to PayPal"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:371 dashboard/dashboard-functions.php:406
+#: dashboard/dashboard-functions.php:414
+msgid "You have successfully added new listing"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:412 dashboard/dashboard-functions.php:676
+msgid "Your package expired"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:555
+msgid "Error, required fields are empty"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:636
+msgid "You have successfully edited listing"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:671 dashboard/dashboard-functions.php:678
+#: dashboard/dashboard-functions.php:689
+msgid "You have successfully updated listing"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:734 dashboard/dashboard-functions.php:1788
+msgid "My Listings"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:746
+msgid "You currently have no listings"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:750
+msgid "Add New Listing"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:786 dashboard/dashboard-functions.php:795
+msgid "My Whislist"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:799 dashboard/templates/profile.php:165
+msgid "Your wishlist is empty."
+msgstr ""
+
+#: dashboard/dashboard-functions.php:822 dashboard/dashboard-functions.php:855
+msgid "Add listing to wishlist"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:827 dashboard/dashboard-functions.php:852
+msgid "Remove listing from wishlist"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:894
+msgid "Comments and Reviews"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:977
+msgid "Specifications"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:1113
+msgid "Amenities"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:1206
+#: post-types/listing/listing-register.php:107
+msgid "Listing Category"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:1305
+#: post-types/listing-package/listing-package-register.php:44
+#: post-types/listing-package/listing-package-register.php:45
+msgid "Listing Package"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:1596
+msgid "You don't have permissions to add new listing"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:1645
+msgid "You don't have permissions to edit this listing"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:1678
+msgid "Your Account"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:1696
+msgid "You are currently signed in as "
+msgstr ""
+
+#: dashboard/dashboard-functions.php:1764 dashboard/templates/profile.php:42
+msgid "My Profile"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:1772
+#: dashboard/templates/edit-profile.php:8
+msgid "Edit Profile"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:1780
+#: dashboard/templates/add-new-listing.php:3
+msgid "Submit New Listing"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:1795
+msgid "My Wishlist"
+msgstr ""
+
+#: dashboard/page-templates/user-dashboard.php:30
+msgid "Log in to your Account"
+msgstr ""
+
+#: dashboard/page-templates/user-dashboard.php:33
+msgid "Sign up"
+msgstr ""
+
+#: dashboard/templates/add-new-listing.php:19
+#: dashboard/templates/edit-listing.php:15
+msgid "Listing Name"
+msgstr ""
+
+#: dashboard/templates/add-new-listing.php:25
+#: dashboard/templates/add-new-listing.php:40
+msgid "e.g. Apocalyptus"
+msgstr ""
+
+#: dashboard/templates/add-new-listing.php:34
+#: dashboard/templates/edit-listing.php:29
+msgid "Listing Subtitle"
+msgstr ""
+
+#: dashboard/templates/add-new-listing.php:49
+#: dashboard/templates/edit-listing.php:42
+#: dashboard/templates/edit-profile.php:92 dashboard/templates/profile.php:135
+msgid "Description"
+msgstr ""
+
+#: dashboard/templates/add-new-listing.php:61
+#: dashboard/templates/edit-listing.php:54
+msgid "Excerpt"
+msgstr ""
+
+#: dashboard/templates/add-new-listing.php:66
+#: dashboard/templates/edit-listing.php:62
+msgid "Listing Excerpt"
+msgstr ""
+
+#: dashboard/templates/add-new-listing.php:75
+#: dashboard/templates/edit-listing.php:72
+#: post-types/taxonomy-meta-fields.php:12
+#: post-types/taxonomy-meta-fields.php:125
+msgid "Featured Image"
+msgstr ""
+
+#: dashboard/templates/add-new-listing.php:93
+#: dashboard/templates/add-new-listing.php:94
+#: dashboard/templates/edit-listing.php:92
+#: dashboard/templates/edit-listing.php:93
+#: dashboard/templates/listing-type-fields.php:96
+#: dashboard/templates/listing-type-fields.php:97
+#: post-types/taxonomy-meta-fields.php:19
+#: post-types/taxonomy-meta-fields.php:20
+#: post-types/taxonomy-meta-fields.php:137
+#: post-types/taxonomy-meta-fields.php:138
+msgid "Select Image"
+msgstr ""
+
+#: dashboard/templates/add-new-listing.php:125
+#: dashboard/templates/edit-listing.php:123
+msgid "Address"
+msgstr ""
+
+#: dashboard/templates/add-new-listing.php:136
+#: dashboard/templates/edit-listing.php:135
+msgid "Latitude"
+msgstr ""
+
+#: dashboard/templates/add-new-listing.php:145
+#: dashboard/templates/edit-listing.php:146
+msgid "Longitude"
+msgstr ""
+
+#: dashboard/templates/add-new-listing.php:166
+msgid "Add Listing"
+msgstr ""
+
+#: dashboard/templates/dashboard-navigation.php:8
+msgid "Log out"
+msgstr ""
+
+#: dashboard/templates/edit-listing.php:3
+msgid "Edit Listing"
+msgstr ""
+
+#: dashboard/templates/edit-listing.php:173
+msgid "Save Listing"
+msgstr ""
+
+#: dashboard/templates/edit-profile.php:19
+msgid "First Name"
+msgstr ""
+
+#: dashboard/templates/edit-profile.php:31
+msgid "Last Name"
+msgstr ""
+
+#: dashboard/templates/edit-profile.php:44
+#: dashboard/templates/listing-type-fields.php:211
+msgid "Email"
+msgstr ""
+
+#: dashboard/templates/edit-profile.php:57 dashboard/templates/profile.php:88
+msgid "Website"
+msgstr ""
+
+#: dashboard/templates/edit-profile.php:105
+msgid "Password"
+msgstr ""
+
+#: dashboard/templates/edit-profile.php:117
+msgid "Repeat Password"
+msgstr ""
+
+#: dashboard/templates/edit-profile.php:128
+msgid "Update Profile"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:4
+msgid "Tags"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:30
+msgid "Subcategories"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:70
+msgid "Gallery Images"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:130
+msgid "Listing Video"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:136
+msgid "e.g. videourl.com"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:146
+msgid "Listing Audio"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:152
+msgid "e.g. audiourl.com"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:162
+msgid "Listing Phone"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:168
+msgid "e.g. (385) 567-2187"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:178
+msgid "Listing Website"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:184
+msgid "e.g. yourwebsite.com"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:195
+msgid "Working Hours"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:200
+msgid "Mon-Fri: 09:00-24:00 Sat-Sun: 12:00-02:00"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:217
+msgid "e.g. mailaddress@mailserver.com"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:228
+msgid "Price"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:234
+msgid "e.g 100$"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:245
+msgid "Instagram Username"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:251
+msgid "Enter Instagram Username"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:262
+msgid "Open Table ID"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:268
+msgid "Enter Open Table ID"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:278
+msgid "Enter Profile URL"
+msgstr ""
+
+#: dashboard/templates/listing-type-fields.php:318
+msgid "e.g. socialprofileurl.com"
+msgstr ""
+
+#: dashboard/templates/listings.php:11
+msgid "Package Name: "
+msgstr ""
+
+#: dashboard/templates/listings.php:12
+msgid "Items Remaining: "
+msgstr ""
+
+#: dashboard/templates/listings.php:13
+msgid "Expiry date: "
+msgstr ""
+
+#: dashboard/templates/listings.php:51
+msgid "Published"
+msgstr ""
+
+#: dashboard/templates/listings.php:53
+msgid "Pending Review"
+msgstr ""
+
+#: dashboard/templates/listings.php:79
+msgid "Edit"
+msgstr ""
+
+#: dashboard/templates/listings.php:91
+msgid "Delete"
+msgstr ""
+
+#: dashboard/templates/profile.php:50
+msgid "Name"
+msgstr ""
+
+#: dashboard/templates/profile.php:70
+msgid "Mail"
+msgstr ""
+
+#: dashboard/templates/profile.php:93
+msgid "Go to Site"
+msgstr ""
+
+#: dashboard/templates/profile.php:106
+msgid "Social Profiles"
+msgstr ""
+
+#: dashboard/templates/profile.php:153
+msgid "Latest in Whislist"
+msgstr ""
+
+#: helpers.php:322
+#: post-types/listing/shortcodes/listing-advanced-search.php:114
+#: post-types/listing/shortcodes/listing-basic.php:181
+#: post-types/listing-package/shortcodes/listing-packages.php:312
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: helpers.php:368
+msgid "You cannot add more listing in this package "
+msgstr ""
+
+#: helpers.php:901
+msgid "You have succesfully taken this package."
+msgstr ""
+
+#: main.php:62
+msgid "Owner"
+msgstr ""
+
+#: post-types/listing/listing-register.php:84
+#: post-types/listing-package/shortcodes/templates/package-template.php:20
+msgid "Listing"
+msgstr ""
+
+#: post-types/listing/listing-register.php:85
+msgid "Listing Item"
+msgstr ""
+
+#: post-types/listing/listing-register.php:86
+msgid "New Listing Item"
+msgstr ""
+
+#: post-types/listing/listing-register.php:87
+msgid "Add New Listing Item"
+msgstr ""
+
+#: post-types/listing/listing-register.php:88
+msgid "Edit Listing Item"
+msgstr ""
+
+#: post-types/listing/listing-register.php:106
+#: post-types/listing/listing-register.php:116
+msgid "Listing Categories"
+msgstr ""
+
+#: post-types/listing/listing-register.php:108
+msgid "Search Listing Categories"
+msgstr ""
+
+#: post-types/listing/listing-register.php:109
+msgid "All Listing Categories"
+msgstr ""
+
+#: post-types/listing/listing-register.php:110
+msgid "Parent Listing Category"
+msgstr ""
+
+#: post-types/listing/listing-register.php:111
+msgid "Parent Listing Category:"
+msgstr ""
+
+#: post-types/listing/listing-register.php:112
+msgid "Edit Listing Category"
+msgstr ""
+
+#: post-types/listing/listing-register.php:113
+msgid "Update Listing Category"
+msgstr ""
+
+#: post-types/listing/listing-register.php:114
+msgid "Add New Listing Category"
+msgstr ""
+
+#: post-types/listing/listing-register.php:115
+msgid "New Listing Category Name"
+msgstr ""
+
+#: post-types/listing/listing-register.php:133
+#: post-types/listing/listing-register.php:143
+msgid "Listing Tags"
+msgstr ""
+
+#: post-types/listing/listing-register.php:134
+msgid "Listing Tag"
+msgstr ""
+
+#: post-types/listing/listing-register.php:135
+msgid "Search Listing Tags"
+msgstr ""
+
+#: post-types/listing/listing-register.php:136
+msgid "All Listing Tags"
+msgstr ""
+
+#: post-types/listing/listing-register.php:137
+msgid "Parent Listing Tag"
+msgstr ""
+
+#: post-types/listing/listing-register.php:138
+msgid "Parent Listing Tags:"
+msgstr ""
+
+#: post-types/listing/listing-register.php:139
+msgid "Edit Listing Tag"
+msgstr ""
+
+#: post-types/listing/listing-register.php:140
+msgid "Update Listing Tag"
+msgstr ""
+
+#: post-types/listing/listing-register.php:141
+msgid "Add New Listing Tag"
+msgstr ""
+
+#: post-types/listing/listing-register.php:142
+msgid "New Listing Tag Name"
+msgstr ""
+
+#: post-types/listing/listing-register.php:161
+#: post-types/listing/listing-register.php:171
+msgid "Listing Locations"
+msgstr ""
+
+#: post-types/listing/listing-register.php:162
+msgid "Listing Location"
+msgstr ""
+
+#: post-types/listing/listing-register.php:163
+msgid "Search Listing Locations"
+msgstr ""
+
+#: post-types/listing/listing-register.php:164
+msgid "All Listing Locations"
+msgstr ""
+
+#: post-types/listing/listing-register.php:165
+msgid "Parent Listing Locations"
+msgstr ""
+
+#: post-types/listing/listing-register.php:166
+msgid "Parent Listing Locations:"
+msgstr ""
+
+#: post-types/listing/listing-register.php:167
+msgid "Edit Listing Location"
+msgstr ""
+
+#: post-types/listing/listing-register.php:168
+msgid "Update Listing Location"
+msgstr ""
+
+#: post-types/listing/listing-register.php:169
+msgid "Add New Listing Location"
+msgstr ""
+
+#: post-types/listing/listing-register.php:170
+msgid "New Listing Locations Name"
+msgstr ""
+
+#: post-types/listing/listing-register.php:186
+msgid "Status"
+msgstr ""
+
+#: post-types/listing/listing-register.php:187
+msgid "Directory Type"
+msgstr ""
+
+#: post-types/listing/shortcodes/templates/listing-search-template.php:19
+msgid "Search Places"
+msgstr ""
+
+#: post-types/listing-package/listing-package-register.php:46
+msgid "New Listing Package"
+msgstr ""
+
+#: post-types/listing-package/listing-package-register.php:47
+msgid "Add New Listing Package"
+msgstr ""
+
+#: post-types/listing-package/listing-package-register.php:48
+msgid "Edit Listing Package"
+msgstr ""
+
+#: post-types/listing-package/shortcodes/templates/listing-package-template.php:51
+msgid "Curently items: "
+msgstr ""
+
+#: post-types/listing-package/shortcodes/templates/listing-package-template.php:59
+msgid "Remaining days: "
+msgstr ""
+
+#: post-types/listing-package/shortcodes/templates/listing-package-template.php:67
+msgid "Information: "
+msgstr ""
+
+#: post-types/listing-package/shortcodes/templates/package-template.php:26
+#: post-types/listing-package/shortcodes/templates/package-template.php:45
+msgid "Day"
+msgid_plural "Days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: post-types/listing-package/shortcodes/templates/package-template.php:90
+msgid "Purchase"
+msgstr ""
+
+#: post-types/listing-package/shortcodes/templates/package-template.php:106
+msgid "Take a Package"
+msgstr ""
+
+#: post-types/listing-type/listing-type-register.php:48
+#: post-types/listing-type/listing-type-register.php:49
+msgid "Listing Type"
+msgstr ""
+
+#: post-types/listing-type/listing-type-register.php:50
+msgid "New Listing Type"
+msgstr ""
+
+#: post-types/listing-type/listing-type-register.php:51
+#: post-types/listing-type/listing-type-register.php:83
+msgid "Add New Listing Type"
+msgstr ""
+
+#: post-types/listing-type/listing-type-register.php:52
+#: post-types/listing-type/listing-type-register.php:81
+msgid "Edit Listing Type"
+msgstr ""
+
+#: post-types/listing-type/listing-type-register.php:75
+#: post-types/listing-type/listing-type-register.php:85
+msgid "Listing Type Categories"
+msgstr ""
+
+#: post-types/listing-type/listing-type-register.php:76
+msgid "Listing Type Category"
+msgstr ""
+
+#: post-types/listing-type/listing-type-register.php:77
+msgid "Search Listing Type"
+msgstr ""
+
+#: post-types/listing-type/listing-type-register.php:78
+msgid "All Listing Type"
+msgstr ""
+
+#: post-types/listing-type/listing-type-register.php:79
+msgid "Parent Listing Type"
+msgstr ""
+
+#: post-types/listing-type/listing-type-register.php:80
+msgid "Parent Listing Type:"
+msgstr ""
+
+#: post-types/listing-type/listing-type-register.php:82
+msgid "Update Listing Type"
+msgstr ""
+
+#: post-types/listing-type/listing-type-register.php:84
+msgid "New Listing Type Name"
+msgstr ""
+
+#: post-types/taxonomy-meta-fields.php:20
+#: post-types/taxonomy-meta-fields.php:138
+msgid "Upload"
+msgstr ""
+
+#: post-types/taxonomy-meta-fields.php:22
+#: post-types/taxonomy-meta-fields.php:140
+msgid "Remove"
+msgstr ""
+
+#: post-types/taxonomy-meta-fields.php:33
+#: post-types/taxonomy-meta-fields.php:162
+msgid "Set as Featured"
+msgstr ""
+
+#: post-types/taxonomy-meta-fields.php:45
+#: post-types/taxonomy-meta-fields.php:180
+msgid "Set Feature Order"
+msgstr ""
+
+#: post-types/taxonomy-meta-fields.php:52
+#: post-types/taxonomy-meta-fields.php:191
+msgid "Choose Featured Location Layout"
+msgstr ""
+
+#: post-types/taxonomy-meta-fields.php:56
+#: post-types/taxonomy-meta-fields.php:198
+msgid "Square"
+msgstr ""
+
+#: post-types/taxonomy-meta-fields.php:57
+#: post-types/taxonomy-meta-fields.php:202
+msgid "Portrait"
+msgstr ""
+
+#: post-types/taxonomy-meta-fields.php:270
+#: post-types/taxonomy-meta-fields.php:399
+msgid "Icon"
+msgstr ""
+
+#: post-types/taxonomy-meta-fields.php:306
+#: post-types/taxonomy-meta-fields.php:444
+msgid "Choose Listing Type ( only for top parent categories )"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Elated Listing"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin that adds listing features to theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Elated Themes"
+msgstr ""

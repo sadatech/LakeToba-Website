@@ -1,0 +1,76 @@
+# Copyright (C) 2016 Elated Booking
+# This file is distributed under the same license as the Elated Booking package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elated Booking 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/eltd-booking\n"
+"POT-Creation-Date: 2016-03-15 16:17:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: shortcodes/booking-form/templates/booking-form.php:7
+msgid "1 Person"
+msgstr ""
+
+#: shortcodes/booking-form/templates/booking-form.php:8
+msgid "2 People"
+msgstr ""
+
+#: shortcodes/booking-form/templates/booking-form.php:9
+msgid "3 People"
+msgstr ""
+
+#: shortcodes/booking-form/templates/booking-form.php:10
+msgid "4 People"
+msgstr ""
+
+#: shortcodes/booking-form/templates/booking-form.php:11
+msgid "5 People"
+msgstr ""
+
+#: shortcodes/booking-form/templates/booking-form.php:12
+msgid "6 People"
+msgstr ""
+
+#: shortcodes/booking-form/templates/booking-form.php:13
+msgid "7 People"
+msgstr ""
+
+#: shortcodes/booking-form/templates/booking-form.php:14
+msgid "8 People"
+msgstr ""
+
+#: shortcodes/booking-form/templates/booking-form.php:15
+msgid "9 People"
+msgstr ""
+
+#: shortcodes/booking-form/templates/booking-form.php:16
+msgid "10 People"
+msgstr ""
+
+#: shortcodes/booking-form/templates/booking-form.php:67
+msgid "Book Now"
+msgstr ""
+
+#: shortcodes/booking-form/templates/booking-form.php:86
+msgid "Powered by OpenTable"
+msgstr ""
+
+#: shortcodes/booking-form/templates/booking-form.php:88
+msgid "You haven't added OpenTable ID"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Elated Booking"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin that adds booking functionality"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Elated Themes"
+msgstr ""

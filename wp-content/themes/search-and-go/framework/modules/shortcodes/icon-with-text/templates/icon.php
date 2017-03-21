@@ -1,0 +1,1 @@
+<?php echo search_and_go_elated_execute_shortcode('eltd_icon', $icon_parameters); ?>

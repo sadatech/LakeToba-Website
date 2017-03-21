@@ -1,0 +1,19 @@
+/* OPTIONS TABLE */
+.afp-options-table {
+	margin-bottom: 20px;
+}
+.afp-options-table td {
+	padding: 5px;
+}
+
+/* ITEM FORM */
+.afp-item-form-image-preview {
+	display: inline-block;
+	width: 100px;
+	outline: none;
+}
+.afp-item-form-image-preview img {
+	width: 100%;
+	display: block;
+	border: none;
+}

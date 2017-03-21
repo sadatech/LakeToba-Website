@@ -1,0 +1,1022 @@
+# Copyright (C) 2016 Select Themes
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Search and Go 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/search-and-go\n"
+"POT-Creation-Date: 2016-03-15 16:15:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:13
+msgid "Page you are looking is not found"
+msgstr ""
+
+#: 404.php:20
+msgid "The page you are looking for does not exist. It may have been moved, or removed altogether. Perhaps you can return back to the site's homepage and see if you can find what you are looking for."
+msgstr ""
+
+#: advanced-search-without-map.php:69 archive-listing-item.php:57
+msgid "Load More"
+msgstr ""
+
+#: archive-listing-item.php:66
+msgid "View Larger Map"
+msgstr ""
+
+#: comments.php:6
+msgid "No Reviews"
+msgstr ""
+
+#: comments.php:6
+msgid " Review "
+msgstr ""
+
+#: comments.php:6
+msgid " Reviews "
+msgstr ""
+
+#: comments.php:8
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:8
+msgid " Comment "
+msgstr ""
+
+#: comments.php:8
+msgid " Comments "
+msgstr ""
+
+#: comments.php:16
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:45
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:58
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:59
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:60
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:61
+msgid "Publish"
+msgstr ""
+
+#: comments.php:62
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:66 comments.php:75
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:67 comments.php:76
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:68
+msgid "Website"
+msgstr ""
+
+#: comments.php:73
+msgid "Your Experience"
+msgstr ""
+
+#: framework/admin/skins/elated/templates/content-import.php:98
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#: framework/admin/skins/elated/templates/content-import.php:117
+msgid "Important notes:"
+msgstr ""
+
+#: framework/admin/skins/elated/templates/content-import.php:119
+msgid "Please note that import process will take time needed to download all attachments from demo web site."
+msgstr ""
+
+#: framework/admin/skins/elated/templates/content-import.php:120
+msgid "If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: framework/admin/skins/elated/templates/header.php:4
+msgid "Logo"
+msgstr ""
+
+#: framework/admin/skins/elated/templates/header.php:16
+msgid "Save Changes"
+msgstr ""
+
+#: framework/eltd-framework.php:570
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:522
+msgid "Pingback:"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:544
+msgid "at"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:756
+msgid "Continue reading"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:879
+msgid "Read More"
+msgstr ""
+
+#: framework/modules/blog/blog-functions.php:1095
+#: framework/modules/listing/listing-functions.php:1038
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: framework/modules/blog/templates/lists/parts/filter.php:24
+#: framework/modules/listing/templates/parts/listing-archive-advanced-fields.php:14
+#: framework/modules/listing/templates/parts/listing-archive-advanced-fields.php:25
+msgid "All"
+msgstr ""
+
+#: framework/modules/blog/templates/lists/post-formats/quote.php:14
+#: framework/modules/blog/templates/parts/post-info-author.php:3
+#: framework/modules/blog/templates/single/post-formats/quote.php:14
+msgid "by"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/audio.php:4
+#: framework/modules/listing/templates/parts/audio.php:18
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/no-posts.php:2
+#: framework/modules/shortcodes/blog-list/templates/blog-list-holder.php:15
+#: search.php:58
+msgid "No posts were found."
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info-comments.php:1
+msgid "Comments"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/post-info-comments.php:1
+msgid "Comment"
+msgstr ""
+
+#: framework/modules/blog/templates/parts/video.php:17
+#: vc-templates/vc_row.php:210
+msgid "video thumb"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/related-posts.php:4
+msgid "Related Posts"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/single-navigation.php:42
+msgid "Previous post"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/single-navigation.php:61
+msgid "Next post"
+msgstr ""
+
+#: framework/modules/blog/templates/single/parts/tags.php:3
+#: framework/modules/listing/templates/parts/tags.php:10
+msgid "Tags"
+msgstr ""
+
+#: framework/modules/header/functions.php:10
+msgid "Main Navigation"
+msgstr ""
+
+#: framework/modules/header/templates/parts/logo.php:5
+msgid "logo"
+msgstr ""
+
+#: framework/modules/header/templates/parts/logo.php:6
+msgid "dark logo"
+msgstr ""
+
+#: framework/modules/header/templates/parts/logo.php:7
+msgid "light logo"
+msgstr ""
+
+#: framework/modules/header/templates/parts/mobile-logo.php:5
+msgid "mobile logo"
+msgstr ""
+
+#: framework/modules/header/types/header-type3.php:52
+#: framework/modules/header/widget-areas-functions.php:47
+msgid "Right From Main Menu"
+msgstr ""
+
+#: framework/modules/header/types/header-type3.php:56
+#: framework/modules/header/widget-areas-functions.php:51
+msgid "Widgets added here will appear on the right hand side from the main menu"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:13
+msgid "Top Bar Left"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:22
+msgid "Top Bar Center"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:30
+msgid "Top Bar Right"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:65
+msgid "Right From Mobile Logo"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:69
+msgid "Widgets added here will appear on the right hand side from the mobile logo"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:84
+msgid "Sticky Right"
+msgstr ""
+
+#: framework/modules/header/widget-areas-functions.php:88
+msgid "Widgets added here will appear on the right hand side in sticky menu"
+msgstr ""
+
+#: framework/modules/like/like.php:132 framework/modules/like/like.php:145
+#: framework/modules/like/like.php:158
+msgid "Like this"
+msgstr ""
+
+#: framework/modules/like/like.php:135 framework/modules/like/like.php:148
+#: framework/modules/like/like.php:161
+msgid "You already like this!"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:478
+msgid "Write a Review"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:480
+msgid "Rate Here"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:490
+msgid "Title of your Review"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:526
+msgid "Comment - Reviews"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:543
+msgid "Comment Title"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:547
+msgid "Rating"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:589
+msgid "Error: You did not add a rating. Hit the Back button on your Web browser and resubmit your comment with a rating."
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:726
+msgid "Please insert valid name"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:733
+msgid "Please insert valid email"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:744
+msgid "Please insert valid phone"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:776
+msgid "From"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:777
+msgid "Phone"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:778
+#: framework/modules/listing/templates/parts/enquiry.php:9
+msgid "Message"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:779
+msgid "Message sent via enquiry form on"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:783
+msgid "New Enquiry form blog name"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:788
+msgid "Enquiry sent successfully"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:797
+msgid "Please review your enquiry and send again"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:1221
+#: framework/modules/listing/social-login.php:375
+#: framework/modules/listing/social-login.php:414
+msgid "All fields are empty"
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:1241
+msgid "Listing cannot be claimed."
+msgstr ""
+
+#: framework/modules/listing/listing-functions.php:1243
+msgid "Listing successfully claimed, waiting for Administrator approval."
+msgstr ""
+
+#: framework/modules/listing/social-login.php:42
+#: framework/modules/shortcodes/login/template/login-template.php:48
+#: framework/modules/shortcodes/register/template/register-template.php:34
+msgid "Connect with Social Networks"
+msgstr ""
+
+#: framework/modules/listing/social-login.php:192
+#: framework/modules/listing/social-login.php:234
+#: framework/modules/listing/social-login.php:400
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: framework/modules/listing/social-login.php:395
+msgid "Wrong username or password."
+msgstr ""
+
+#: framework/modules/listing/social-login.php:428
+msgid "You are sucssesfully registered. Please check your email"
+msgstr ""
+
+#: framework/modules/listing/social-login.php:430
+msgid "User already exists"
+msgstr ""
+
+#: framework/modules/listing/social-login.php:449
+msgid "We have sent you an email"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/booking.php:10
+msgid "Book a table online"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/claim-modal.php:3
+#: framework/modules/listing/templates/parts/claim-modal.php:19
+#: framework/modules/listing/templates/parts/claim.php:21
+msgid "Claim Listing"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/claim-modal.php:7
+msgid "Select Package for Listing"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/claim-modal.php:31
+msgid "You don't have available packages"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/custom-fields.php:28
+msgid "Specification"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/enquiry.php:4
+msgid "Enquire now"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/enquiry.php:6
+msgid "Name"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/enquiry.php:6
+msgid "Name must have six or more characters"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/enquiry.php:7
+#: framework/modules/shortcodes/register/template/register-template.php:7
+msgid "Email"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/enquiry.php:7
+msgid "Email address has to be in valid format"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/enquiry.php:8
+msgid "Phone No"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/enquiry.php:11
+msgid "Submit"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/feature-list.php:26
+msgid "Amenities"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/instagram.php:11
+msgid "Please install Elated Instagram Feed Plugin"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/instagram.php:16
+msgid "Please connect with Instagram"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/instagram.php:30
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/item-info.php:27
+msgid "Call us anytime"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/listing-archive-advanced-fields.php:8
+msgid "Keywords"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/listing-archive-advanced-fields.php:12
+#: framework/modules/listing/templates/parts/listing-archive-advanced-fields.php:13
+msgid "Category"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/listing-archive-advanced-fields.php:23
+#: framework/modules/listing/templates/parts/listing-archive-advanced-fields.php:24
+msgid "Location"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/listing-archive-advanced-fields.php:35
+msgid "Filter by Amenities"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/listing-archive-advanced-fields.php:40
+msgctxt "post count"
+msgid "<span class=\"eltd-number\">%1$s</span> Result Found"
+msgid_plural "<span class=\"eltd-number\">%1$s</span> Results Found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/modules/listing/templates/parts/map.php:16
+msgid "Get Directions"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/price.php:14
+msgid "Price: "
+msgstr ""
+
+#: framework/modules/listing/templates/parts/related-listings.php:4
+msgid "Recommended"
+msgstr ""
+
+#: framework/modules/listing/templates/parts/social.php:18
+msgid "Social Profiles"
+msgstr ""
+
+#: framework/modules/shortcodes/blockquote/blockquote.php:37
+msgid "Elated Blockquote"
+msgstr ""
+
+#: framework/modules/shortcodes/blog-list/blog-list.php:27
+msgid "Elated Blog List"
+msgstr ""
+
+#: framework/modules/shortcodes/blog-list/blog-list.php:37
+#: includes/nav-menu/edit_custom_walker.php:206
+msgid "Type"
+msgstr ""
+
+#: framework/modules/shortcodes/button/button.php:39
+msgid "Elated Button"
+msgstr ""
+
+#: framework/modules/shortcodes/button/button.php:169
+msgid "Insert margin in format: 0px 0px 1px 0px"
+msgstr ""
+
+#: framework/modules/shortcodes/calltoaction/call-to-action.php:52
+msgid "Elated Call To Action"
+msgstr ""
+
+#: framework/modules/shortcodes/countdown/countdown.php:38
+msgid "Elated Countdown"
+msgstr ""
+
+#: framework/modules/shortcodes/counter/counter.php:37
+msgid "Elated Counter"
+msgstr ""
+
+#: framework/modules/shortcodes/customfont/custom-font.php:37
+msgid "Elated Custom Font"
+msgstr ""
+
+#: framework/modules/shortcodes/elements-holder/elements-holder-item.php:21
+msgid "Elated Elements Holder Item"
+msgstr ""
+
+#: framework/modules/shortcodes/elements-holder/elements-holder.php:18
+msgid "Elated Elements Holder"
+msgstr ""
+
+#: framework/modules/shortcodes/google-map/google-map.php:21
+msgid "Elated Google Map"
+msgstr ""
+
+#: framework/modules/shortcodes/icon/icon.php:36
+msgid "Elated Icon"
+msgstr ""
+
+#: framework/modules/shortcodes/icon/icon.php:81
+msgid "Please insert border radius(Rounded corners) in px. For example: 4 "
+msgstr ""
+
+#: framework/modules/shortcodes/icon-list-item/icon-list-item.php:34
+msgid "Elated Icon List Item"
+msgstr ""
+
+#: framework/modules/shortcodes/icon-with-text/icon-with-text.php:37
+msgid "Elated Icon With Text"
+msgstr ""
+
+#: framework/modules/shortcodes/imagegallery/image-gallery.php:35
+msgid "Elated Image Gallery"
+msgstr ""
+
+#: framework/modules/shortcodes/login/template/login-template.php:9
+#: framework/modules/shortcodes/register/template/register-template.php:4
+msgid "User Name"
+msgstr ""
+
+#: framework/modules/shortcodes/login/template/login-template.php:9
+#: framework/modules/shortcodes/register/template/register-template.php:4
+msgid "Three or more characters"
+msgstr ""
+
+#: framework/modules/shortcodes/login/template/login-template.php:12
+msgid "Password"
+msgstr ""
+
+#: framework/modules/shortcodes/login/template/login-template.php:18
+msgid "Remember me"
+msgstr ""
+
+#: framework/modules/shortcodes/login/template/login-template.php:20
+msgid "Lost Password?"
+msgstr ""
+
+#: framework/modules/shortcodes/login/template/login-template.php:20
+msgid "Lost Your Password?"
+msgstr ""
+
+#: framework/modules/shortcodes/login/template/login-template.php:26
+#: framework/modules/shortcodes/register/template/register-message.php:3
+#: framework/modules/shortcodes/register/template/register-template.php:27
+#: framework/modules/shortcodes/reset-password/template/reset-password-template.php:19
+#: framework/modules/widgets/login-register/login-register.php:72
+msgid "Log in"
+msgstr ""
+
+#: framework/modules/shortcodes/login/template/login-template.php:40
+msgid "Don't have an account? Want to create?"
+msgstr ""
+
+#: framework/modules/shortcodes/login/template/login-template.php:41
+msgid "Sign up"
+msgstr ""
+
+#: framework/modules/shortcodes/message/message.php:28
+msgid "Elated Message"
+msgstr ""
+
+#: framework/modules/shortcodes/numbered-steps/numbered-steps.php:28
+msgid "Elated Numbered Steps"
+msgstr ""
+
+#: framework/modules/shortcodes/ordered-list/ordered-list.php:18
+msgid "Elated List - Ordered"
+msgstr ""
+
+#: framework/modules/shortcodes/piecharts/piechartbasic/pie-chart-basic.php:37
+msgid "Elated Pie Chart"
+msgstr ""
+
+#: framework/modules/shortcodes/piecharts/piechartdoughnut/pie-chart-doughnut.php:59
+msgid "Elated Pie Chart 3 (Doughnut)"
+msgstr ""
+
+#: framework/modules/shortcodes/piecharts/piechartpie/pie-chart-pie.php:59
+msgid "Elated Pie Chart 2 (Pie)"
+msgstr ""
+
+#: framework/modules/shortcodes/piecharts/piechartwithicon/pie-chart-with-icon.php:34
+msgid "Elated Pie Chart With Icon"
+msgstr ""
+
+#: framework/modules/shortcodes/pricing-table/pricing-table.php:18
+msgid "Elated Pricing Table"
+msgstr ""
+
+#: framework/modules/shortcodes/pricing-table/pricing-tables.php:19
+msgid "Elated Pricing Tables"
+msgstr ""
+
+#: framework/modules/shortcodes/progress-bar/progress-bar.php:20
+msgid "Elated Progress Bar"
+msgstr ""
+
+#: framework/modules/shortcodes/register/register.php:58
+msgid "You dont have permission to register"
+msgstr ""
+
+#: framework/modules/shortcodes/register/register.php:62
+msgid "You are already logged in"
+msgstr ""
+
+#: framework/modules/shortcodes/register/template/register-template.php:12
+msgid "Register"
+msgstr ""
+
+#: framework/modules/shortcodes/register/template/register-template.php:26
+msgid "Have an account? Log in?"
+msgstr ""
+
+#: framework/modules/shortcodes/reset-password/template/reset-password-template.php:3
+msgid "Enter username or email"
+msgstr ""
+
+#: framework/modules/shortcodes/reset-password/template/reset-password-template.php:9
+msgid "New Password"
+msgstr ""
+
+#: framework/modules/shortcodes/reset-password/template/reset-password-template.php:19
+#: includes/nav-menu/edit_custom_walker.php:306
+msgid "Cancel"
+msgstr ""
+
+#: framework/modules/shortcodes/separator/separator.php:23
+msgid "Elated Separator"
+msgstr ""
+
+#: framework/modules/shortcodes/separator-with-icon/separator-with-icon.php:23
+msgid "Elated Separator With Icon"
+msgstr ""
+
+#: framework/modules/shortcodes/socialshare/social-share.php:43
+msgid "Elated Social Share"
+msgstr ""
+
+#: framework/modules/shortcodes/socialshare/templates/dropdown.php:6
+msgid "Share"
+msgstr ""
+
+#: framework/modules/shortcodes/unordered-list/unordered-list.php:30
+msgid "Elated List - Unordered"
+msgstr ""
+
+#: framework/modules/shortcodes/videobutton/video-button.php:37
+msgid "Elated Video Button"
+msgstr ""
+
+#: framework/modules/title/templates/title.php:5
+msgid "Background Image"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:93
+msgid " Tag"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:105
+msgid "Author:"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:123 searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:134
+msgid "404 - Page not found"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:140
+msgid "Archive"
+msgstr ""
+
+#: framework/modules/title/title-functions.php:235
+msgid "Search results for "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:294
+msgid "Posts tagged "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:298
+msgid "Articles posted by "
+msgstr ""
+
+#: framework/modules/title/title-functions.php:306
+msgid "Page"
+msgstr ""
+
+#: framework/modules/widgets/latest-post/latest-posts.php:9
+msgid "Display posts from your blog"
+msgstr ""
+
+#: framework/modules/widgets/lib/widget-class.php:75
+msgid "There are no options for this widget."
+msgstr ""
+
+#: framework/modules/widgets/login-register/login-register.php:9
+msgid "Login and register, connect with social networks"
+msgstr ""
+
+#: framework/modules/widgets/login-register/login-register.php:58
+msgid "Log out"
+msgstr ""
+
+#: functions.php:926
+msgid "No more posts"
+msgstr ""
+
+#: functions.php:927
+msgid "Loading new posts..."
+msgstr ""
+
+#: functions.php:1076
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:1077
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:1078
+msgid "Google Plus"
+msgstr ""
+
+#: functions.php:1079
+msgid "Instagram"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+
+#: includes/nav-menu/edit_custom_walker.php:78
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+
+#: includes/nav-menu/edit_custom_walker.php:82
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:107
+msgid "Move up"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:120
+msgid "Move down"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:122
+#: includes/nav-menu/edit_custom_walker.php:124
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:133
+msgid "URL"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:140
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:146
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:153
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:158
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:164
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:170
+msgid "Description"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:172
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:180
+msgid "Anchor"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:191
+msgid "Don't link"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:201
+msgid "Don't show"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:216
+msgid "Wide menu position"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:234
+msgid "Icon Pack"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:240
+msgid "Only with \"default\" & \"wide with icons\" menu types"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:251
+msgid "Icon"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:272
+msgid "Custom widget area"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:283
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:292
+msgid "Original: %s"
+msgstr ""
+
+#: includes/nav-menu/edit_custom_walker.php:305
+msgid "Remove"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:71
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:72
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:73
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:74
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:75
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:76
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:77
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:78
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:79
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:80
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:81
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:82
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:83
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:84
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/plugins-activation.php:85
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:86
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/plugins-activation.php:87
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/sidebar/eltd-custom-sidebar.php:18
+msgid "Custom Widget Area"
+msgstr ""
+
+#: includes/sidebar/eltd-custom-sidebar.php:42
+msgid "Enter Name of the new Widget Area"
+msgstr ""
+
+#: includes/sidebar/eltd-custom-sidebar.php:43
+msgid "Add Widget Area"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Search and Go"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://searchandgo.elated-themes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Modern & Smart Directory Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Select Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/elated-themes"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Advanced Search (Without Map)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Masonry Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Masonry"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Standard Whole Post"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog: Standard"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Landing Page"
+msgstr ""
